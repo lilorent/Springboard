@@ -1,0 +1,115 @@
+[33mcommit 3ac4b887c5a3d6fb48d36ff974d93786bc7dbe1b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: lisalor <lorentzonlisa@gmail.com>
+Date:   Mon Aug 31 20:06:20 2020 -0700
+
+    Completed Step 2 Data Wrangling, trial commit (possible windows issues)
+
+[33mcommit 99f3d244378056af26baff75454308a959523370[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: b58ad19 757cc5f
+Author: Andrew Maguire <andrewm4894@gmail.com>
+Date:   Tue Aug 18 11:28:57 2020 +0100
+
+    Merge pull request #7 from Springboard-CourseDev/develop
+    
+    dev
+
+[33mcommit 757cc5fa91cb0ece72b5a62d4a53fbd26e4efb55[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: Andrew Maguire <andrewm4894@gmail.com>
+Date:   Tue Aug 18 11:28:34 2020 +0100
+
+    dev
+
+[33mcommit b58ad19afd28df806c3efa5f1033236212327d85[m
+Merge: 433b32d de3e11e
+Author: Andrew Maguire <andrewm4894@gmail.com>
+Date:   Tue Aug 18 11:22:50 2020 +0100
+
+    Merge pull request #6 from Springboard-CourseDev/develop
+    
+    adding pipefile and instructions to readme
+
+[33mcommit de3e11ecedaff57c9bcb60ea50a4c1f99ddb2067[m
+Author: Andrew Maguire <andrewm4894@gmail.com>
+Date:   Tue Aug 18 11:22:16 2020 +0100
+
+    adding pipefile and instructions to readme
+
+[33mcommit 433b32d221d8bce43ad8b5ccbeb792fa5c535b8e[m
+Merge: 31389f8 dcb1778
+Author: Andrew Maguire <andrewm4894@gmail.com>
+Date:   Tue Aug 18 10:39:34 2020 +0100
+
+    Merge pull request #5 from Springboard-CourseDev/develop
+    
+    Create .gitignore
+
+[33mcommit dcb177876062f596df0f915aca337ae0da8c8feb[m
+Author: Andrew Maguire <andrewm4894@gmail.com>
+Date:   Tue Aug 18 10:39:05 2020 +0100
+
+    Create .gitignore
+
+[33mcommit 31389f87302ed0aadc1aedd57bc37d276c56128c[m
+Merge: f297101 73d180d
+Author: Andrew Maguire <andrewm4894@gmail.com>
+Date:   Tue Aug 18 10:31:46 2020 +0100
+
+    Merge pull request #2 from cogsci2/Original-Clone-from-Springboard
+    
+    Modified all notebooks to use a relative path through the root directory to the data directories
+
+[33mcommit 73d180d98e3e08c2eabe9a42260558f4b808e8ff[m
+Author: Frank Fletcher <cogsci2@gmail.com>
+Date:   Wed Aug 5 16:14:43 2020 -0700
+
+    Fix: directory structure bug. /data,  /raw_data, /model and mod paths in notebooks to relative
+    
+    prepended '../' to all directory references in the notebooks because they assumed the data and model directories were local.
+
+[33mcommit f997b5123518bb7f479e6e2c45234b9aa01a5110[m
+Author: Frank Fletcher <66141096+cogsci2@users.noreply.github.com>
+Date:   Fri Jul 31 14:05:22 2020 -0700
+
+    Delete 05_modeling.ipynb
+
+[33mcommit 0f572592a400f5e04b91d8369245ccda23f14df4[m
+Author: Frank Fletcher <66141096+cogsci2@users.noreply.github.com>
+Date:   Fri Jul 31 14:03:59 2020 -0700
+
+    Rename 05_modeling.ipnyb to 05_modeling.ipynb
+
+[33mcommit 8c4340dc95b97889e95b63c811ae2e39a6032780[m
+Author: Frank Fletcher <66141096+cogsci2@users.noreply.github.com>
+Date:   Fri Jul 31 14:02:15 2020 -0700
+
+    Create 05_modeling.ipnyb
+
+[33mcommit f297101e54a21857b46fda1e98a76907a9c5945a[m
+Author: Springboard Course Development <68314895+Springboard-CourseDev@users.noreply.github.com>
+Date:   Fri Jul 31 11:27:43 2020 -0700
+
+    Create README.md
+
+[33mcommit 95a83a752725aca92678ee3033197e305162d126[m
+Author: Springboard Course Development <68314895+Springboard-CourseDev@users.noreply.github.com>
+Date:   Thu Jul 30 15:22:42 2020 -0700
+
+    Delete .DS_Store
+
+[33mcommit c09f854818dfe0e36c5fe1b847acc587bea89bcd[m
+Author: Springboard Course Development <68314895+Springboard-CourseDev@users.noreply.github.com>
+Date:   Thu Jul 30 15:22:30 2020 -0700
+
+    Delete Mentors Only - PASSWORD PROTECTED.dmg
+
+[33mcommit 343caf767d96ed7b90ba1999ff176b1c9de73e1b[m
+Author: Adam Alloy <adamalloy@Adams-MBP.attlocal.net>
+Date:   Thu Jul 30 15:21:27 2020 -0700
+
+    added raw data and images
+
+[33mcommit f34a172686272ed018920413f6a2451104528c50[m
+Author: Adam Alloy <adamalloy@Adams-MBP.attlocal.net>
+Date:   Tue Jul 28 14:19:15 2020 -0700
+
+    Initial Commit of Guided Capstone Files
